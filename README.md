@@ -1,8 +1,8 @@
 # Template on Workshop for Reproducible research at ENSGSI
 
-**Name of the student:** Add your name
-**Date:** 
-**Course:** Add your cursus
+**Name of the student:** Manon Saborido
+**Date:** 01/02/2021
+**Course:** CI15
 
 ## Purpose
 > The purpose of thi repository contains the files and tutorial on the reproducible research.
